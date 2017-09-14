@@ -16,5 +16,5 @@ Make sure you have python 3 installed.<br>
 #### To run console version<br>
   in terminal:<br>
   ```
-  pyton3 tic-tac-toe.py
+  python3 tic-tac-toe.py
   ```

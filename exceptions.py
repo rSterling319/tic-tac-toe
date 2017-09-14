@@ -1,0 +1,2 @@
+class TicTacToeError(Exception):
+    pass

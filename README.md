@@ -1,5 +1,5 @@
 # tic-tac-toe
-###Richard Sterling
+### Richard Sterling
 
 This is a GUI tic-tac-toe game.
 <br>
@@ -8,8 +8,8 @@ This is a GUI tic-tac-toe game.
 <br>
 
 Make sure you have python 3 installed.<br>
-To run GUI version:<br>
-  in terminal:
+#### To run GUI version:
+  in terminal:<br>
     ```
     python3 tic-tac-toe-app.py
     ```
